@@ -1,5 +1,7 @@
 # TestTranslate
 
+Project development in angular, provide a translation on your page, the website is build with the new ssr provider from angular client.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
 
 ## Development server
